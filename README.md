@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Daxiang Dong(董大祥 in Chinese) 👋
+
+![Daxiang's Profile View](https://komarev.com/ghpvc/?username=guru4elephant&color=blue)
+
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=guru4elephant&layout=compact)
+
+![Daxiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=guru4elephant&show_icons=true&theme=radical)
+
+
 
 <!--
 **guru4elephant/guru4elephant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
